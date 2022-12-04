@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "ft.devtools-test"
+        "ft.devtools-test",
+        "ms-edgedevtools.vscode-edge-devtools"
     ]
 }
